@@ -1,6 +1,6 @@
 ﻿using SudokuBookGenerator;
 
-var pages = 30;
+var pages = 100;
 var outputFilePath = "sudoku_book.pdf";
 
 var sudokuGenerator = new SudokuSharpGenerator(15, 15, 15);
